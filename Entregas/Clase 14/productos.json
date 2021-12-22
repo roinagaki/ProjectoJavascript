@@ -1,0 +1,24 @@
+[
+    { "id": 1, "producto": "Vestido Bebe", "precio": 1800},
+    { "id": 2, "producto": "Body Bebe", "precio": 1600},
+    { "id": 3, "producto": "Pantalon Bebe", "precio": 1200},
+    { "id": 4, "producto": "Mono", "precio": 3200},
+    { "id": 5, "producto": "Chaleco Bebe", "precio": 1200},
+    { "id": 6, "producto": "Body", "precio": 1400},
+    { "id": 7, "producto": "Remera", "precio": 1450},
+    { "id": 8, "producto": "Gorrito", "precio": 1000},
+    { "id": 9, "producto": "Sweater Bebe", "precio": 1900},
+    { "id": 10, "producto": "Short Bebe", "precio": 1500},
+    { "id": 11, "producto": "Vestido Nena", "precio": 2200},
+    { "id": 12, "producto": "Sweater Nena/e", "precio": 1900},
+    { "id": 13, "producto": "Short Nena", "precio": 1800},
+    { "id": 14, "producto": "Caballo", "precio": 1800},
+    { "id": 15, "producto": "Hipopotamo", "precio": 2000},
+    { "id": 16, "producto": "Obeja", "precio": 1800},
+    { "id": 17, "producto": "Zorro", "precio": 1800},
+    { "id": 18, "producto": "Ciervo", "precio": 1700},
+    { "id": 19, "producto": "Gallo", "precio": 1800},
+    { "id": 20, "producto": "Muñeca", "precio": 1900}
+   
+
+]
