@@ -39,3 +39,9 @@ header, .alert{
 .hide, .remove {
     display: none;
 }
+
+footer{
+    
+    height: 6rem;
+
+}
