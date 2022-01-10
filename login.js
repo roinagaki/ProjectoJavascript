@@ -1,14 +1,14 @@
-// (function(){
-//     $(document).ready(function(){
-//         $('.alt-form').click(function(){
-//             $('.form-contenido').animate({
-//                 height: "toggle",
-//                 opacity: 'toggle'
-//             }, 600); 
+(function(){
+    $(document).ready(function(){
+        $('.alt-form').click(function(){
+            $('.form-contenido').animate({
+                height: "toggle",
+                opacity: 'toggle'
+            }, 600); 
 
-//         });
-//     })
-// }())
+        });
+    })
+}())
 
 // const email = document.getElementById("correo")
 // const pass = document.getElementById("pass")

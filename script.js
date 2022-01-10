@@ -158,11 +158,18 @@ window.onload = function(){
     })
 }())
 
-const email = document.getElementById("usuario")
+const usuario = document.getElementById("usuario")
 const pass = document.getElementById("pass")
 const form = document.getElementById("form")
 const parrafo = document.getElementById("warnings")
 
-
+// form.addEventListener("Submit",e=>{
+//     e.preventDefault()
+   
+//     if(usuario.value.lenght <6){
+//         alert('El usuario es muy corto')
+//     }
+    
+// })
 
 
