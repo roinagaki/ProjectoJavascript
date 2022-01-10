@@ -1,5 +1,8 @@
 /* estilos carrito*/
 
+.body-carrito{
+    background-color: rgb(201, 88, 76);
+}
 .card{
     margin: 1rem;
     background: cornsilk;
